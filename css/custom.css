@@ -1,0 +1,34 @@
+		#menu {
+		  margin-bottom: 30px;
+		}
+		td {
+					text-align: center;
+				}
+
+		#team {
+			padding: 6px 0px 6px 0px;
+		}
+		
+		#table {
+			border-collapse: collapse;
+			width: 500px;
+		}
+		#table2 {
+			border-collapse: collapse;
+			width: 1000px;
+		}
+
+		#th, #td {
+			text-align: left;
+			padding: 8px;
+	
+		}
+
+		#tr:nth-child(even){
+			background-color: #f2f2f2
+		}
+
+		#th {
+			background-color: #4CAF50;
+			color: white;
+		}

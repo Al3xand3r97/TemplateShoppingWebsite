@@ -9,9 +9,9 @@ Template for a shopping website. Functionalities:
 - owner CMS
 
 In the 'SQL Database' folder is the sql database.
-    Users:
-        Administrator:  Username: root
-                        Password: toor
+Users:
+    Administrator:  Username: root
+                    Password: toor
 
-        Normal user:    Username: User1
-                        Password: user1
+    Normal user:    Username: User1
+                    Password: user1

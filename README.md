@@ -1,4 +1,4 @@
-# TemplateShoppingWebsite
+# Template for a Shopping Website
 Template for a shopping website. Functionalities:
 - 100% mobile friendly by using Boostrap
 - sign up / login system
